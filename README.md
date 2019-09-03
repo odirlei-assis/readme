@@ -27,3 +27,9 @@
 ### `git remote add origin (link do repositório)`
 > Indica qual repositório do Git estará relacionado ao diretório local.
 ##
+
+<br />
+<h1 align="center">Fluxo git</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32688131/64205332-170d9000-ce6e-11e9-9fad-db8a5e00287f.png" alt="Git logo" width="600" height="500">
+</p>
